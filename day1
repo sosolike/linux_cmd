@@ -32,4 +32,11 @@ cut命令：
       -c m 打印前m个字节
       -q 隐藏文件名
       -v 显示文件名
+  sz命令：
+    下载服务器上的指定文件；
+    sz  指定文件
+  rz命令：
+    向服务器上面上传文件；
+    rz
+  rz/sz命令需要安装lszrz：yum install lszrz;
      
